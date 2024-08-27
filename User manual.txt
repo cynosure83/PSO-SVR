@@ -1,0 +1,1 @@
+The algorithm was written in the Python language. And the software interface was designed by using the Qt Designer tool.
